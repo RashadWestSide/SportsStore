@@ -105,8 +105,12 @@ using SportsStore.Models.ViewModels;
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5f966f0f1b9f4f22b4dc72d5aac19ec8", async() => {
 =======
             BeginContext(189, 61, false);
+<<<<<<< HEAD
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ca606985c6ab442d87ce3f1463dd9c61", async() => {
+=======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "335b73d3fc3144f7ab9e44c74ecb220d", async() => {
 >>>>>>> c9cdfb3fdbc236f5b207d756c876bc61681e80da
+>>>>>>> 0a5b390a094cb31b5dd4c2dc4e01f8adadbe3c16
             }
             );
             __SportsStore_Infrastructure_PageLinkTagHelper = CreateTagHelper<global::SportsStore.Infrastructure.PageLinkTagHelper>();
