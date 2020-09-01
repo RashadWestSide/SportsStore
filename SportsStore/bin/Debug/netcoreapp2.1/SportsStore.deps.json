@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "3d650778e3500094e38cb51398f5ded5c197beae"
+    "signature": "8e89469ec37faf22a3bca6a9fbae75d7152f7b1b"
   },
   "compilationOptions": {
     "defines": [
@@ -27,7 +27,8 @@
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.9"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.9",
+          "bootstrap": "4.0.0"
         },
         "runtime": {
           "SportsStore.dll": {}
@@ -36,6 +37,13 @@
           "SportsStore.dll": {}
         }
       },
+      "bootstrap/4.0.0": {
+        "dependencies": {
+          "jQuery": "3.0.0",
+          "popper.js": "1.12.9"
+        }
+      },
+      "jQuery/3.0.0": {},
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
       "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0": {
         "dependencies": {
@@ -377,6 +385,7 @@
           "lib/netstandard1.6/NuGet.Frameworks.dll": {}
         }
       },
+      "popper.js/1.12.9": {},
       "System.Composition/1.0.31": {
         "dependencies": {
           "System.Composition.AttributedModel": "1.0.31",
@@ -3462,6 +3471,20 @@
       "serviceable": false,
       "sha512": ""
     },
+    "bootstrap/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DQ+lOJrJLwsNlPZJoXWHHUCO7b1s1ri824GfPKkAMXaW4TgaU+SDwwc9kGioz6kVSaFKi52Mas7Pnh8yBuNO2w==",
+      "path": "bootstrap/4.0.0",
+      "hashPath": "bootstrap.4.0.0.nupkg.sha512"
+    },
+    "jQuery/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FXANjZia/vux9/ObNiPwh2zNWuzcgHMKXia1OQrviuf0OKPBWB2TBIVAICgtObuzEW+XLyaBEoVuOUlMXy0kNA==",
+      "path": "jquery/3.0.0",
+      "hashPath": "jquery.3.0.0.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
       "type": "package",
       "serviceable": true,
@@ -3594,6 +3617,13 @@
       "sha512": "sha512-KuqDbPzjOWbUM6gPMbkvdhlQ10roQAoMM7mNZ8hcY/fH+9J4Zc+qT8dLWoNzGyr0OrxQVdZdbSjy/fxwoICgGg==",
       "path": "nuget.frameworks/4.7.0",
       "hashPath": "nuget.frameworks.4.7.0.nupkg.sha512"
+    },
+    "popper.js/1.12.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S3nib/Aq8Uu8AvB9stHjgj+EpWhaUOwxaHiKY3J9NpydUG3SuwUFCNs+AA+dvLt4REoMM2N4DaWvWWki8VJyqQ==",
+      "path": "popper.js/1.12.9",
+      "hashPath": "popper.js.1.12.9.nupkg.sha512"
     },
     "System.Composition/1.0.31": {
       "type": "package",

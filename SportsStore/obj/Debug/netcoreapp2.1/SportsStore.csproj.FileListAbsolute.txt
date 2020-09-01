@@ -31,7 +31,6 @@ C:\GIT\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.dll
 C:\GIT\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.pdb
 C:\GIT\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.Views.dll
 C:\GIT\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.Views.pdb
-C:\GIT\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
 C:\GIT\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
 C:\GIT\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cache
 C:\GIT\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cs
@@ -50,3 +49,4 @@ C:\GIT\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.Views.pdb
 C:\GIT\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.dll
 C:\GIT\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.pdb
 C:\GIT\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
+C:\GIT\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.g.cshtml.cs
